@@ -70,7 +70,7 @@ stream = (banner1, banner2)
 print random.choice(stream)
 time.sleep(1)
 
-    happy = "Happy Birthday to You.."
+    
 
     print "###########################################"
     print "\t" + "Happy Birthday SUFIAN VAI" 
